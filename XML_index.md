@@ -1,0 +1,3 @@
+[A Paper](https://github.com/ActiveState/code/tree/working/recipes/XML/577927_A_Paper)  
+[modify a xml file for experiment](https://github.com/ActiveState/code/tree/working/recipes/XML/578196_modify_a_xml_file_for_experiment)  
+[Proxying WCF service ](https://github.com/ActiveState/code/tree/working/recipes/XML/578958_Proxying_WCF_service_)  
