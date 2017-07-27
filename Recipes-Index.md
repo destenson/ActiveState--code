@@ -8,7 +8,7 @@
 [Javascript](Javascript_index)   
 [Perl](Perl_index)  
 [PHP](PHP_index)  
-Python [\[0-C\]](Python_index_0) [\[D-F\]](Python_index_1) [\[G-F\]](Python_index_2) [\[G-F\]](Python_index_3) 
+Python [\[0-B\]](Python_index_0) [\[C-D\]](Python_index_1) [\[E-G\]](Python_index_2) [\[G-F\]](Python_index_3) 
 [\[G-F\]](Python_index_4) [\[G-F\]](Python_index_5) [\[G-F\]](Python_index_6) [\[G-F\]](Python_index_7)  
 [Ruby](Ruby_index)   
 [Tcl](Tcl_index)  
