@@ -9,7 +9,7 @@
 [Perl](Perl_index)  
 [PHP](PHP_index)  
 Python [\[0-B\]](Python_index_0) [\[C-D\]](Python_index_1) [\[E-G\]](Python_index_2) [\[H-M\]](Python_index_3) 
-[\[N-P\]](Python_index_4) [\[G-F\]](Python_index_5) [\[G-F\]](Python_index_6) [\[G-F\]](Python_index_7)  
+[\[N-P\]](Python_index_4) [\[Q-S\]](Python_index_5) [\[T-W\]](Python_index_6) [\[X-Z\]](Python_index_7)  
 [Ruby](Ruby_index)   
 [Tcl](Tcl_index)  
 [Text](Text_index)   
