@@ -357,6 +357,7 @@
 [Create an ODBC data source](https://github.com/ActiveState/code/tree/master/recipes/Python/414879_Create_an_ODBC_data_source)  
 [Create and apply filters to lists of file paths](https://github.com/ActiveState/code/tree/master/recipes/Python/578084_Create_apply_filters_lists_file)  
 [Create book index.](https://github.com/ActiveState/code/tree/master/recipes/Python/577179_Create_book_index)  
+[Create Calendars on PDF with a few lines](https://github.com/ActiveState/code/tree/master/recipes/Python/580805_Create_Calendars_PDF_few)  
 [Create module dependency graph ](https://github.com/ActiveState/code/tree/master/recipes/Python/577222_Create_module_dependency_graph_)  
 [Create module directly from a filesystem path](https://github.com/ActiveState/code/tree/master/recipes/Python/577792_Create_module_directly_filesystem)  
 [Create Numeric/numarray/numpy array from iterator](https://github.com/ActiveState/code/tree/master/recipes/Python/476217_Create_Numericnumarraynumpy_array)  

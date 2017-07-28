@@ -430,6 +430,7 @@
 [Shell-like data processing, using generators](https://github.com/ActiveState/code/tree/master/recipes/Python/576756_Shelllike_datprocessing_using)  
 [Shell-like data processing, using Popen, pipes, and Thread](https://github.com/ActiveState/code/tree/master/recipes/Python/576757_Shelllike_datprocessing_using_Popen_pipes)  
 [shift chars in string](https://github.com/ActiveState/code/tree/master/recipes/Python/106430_shift_chars_in_string)  
+[Shoelace Formula for polygonal area](https://github.com/ActiveState/code/tree/master/recipes/Python/580812_Shoelace_Formulpolygonal)  
 [Short Enum Recipe](https://github.com/ActiveState/code/tree/master/recipes/Python/577021_Short_Enum_Recipe)  
 [Shortcut Utility](https://github.com/ActiveState/code/tree/master/recipes/Python/579041_Shortcut_Utility)  
 [Shortest Common Supersequence algorithms](https://github.com/ActiveState/code/tree/master/recipes/Python/578678_Shortest_CommSupersequence)  
